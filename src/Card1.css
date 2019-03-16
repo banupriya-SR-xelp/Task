@@ -1,0 +1,63 @@
+.Card1-main {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+}
+.Card1-image {
+  image-rendering: pixelated;
+  height: 400px;
+  width: 100%;
+}
+.Card1 {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.Card1-footer {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.Card1-button {
+  position: absolute;
+  top: 8px;
+  left: 0px;
+  height: 40px;
+  width: 80px;
+  border-radius: 0px 15px 15px 0px;
+  background-color: black;
+  border-color: black;
+  color: #ffffff;
+  align-items: center;
+}
+.Card1-icon {
+  float: left;
+  width: 30px;
+  height: 35px;
+}
+.Card1-heading {
+  font-size: 28px;
+  font-weight: 500;
+  font-style: normal;
+  color: #ffffff;
+  font-weight: bold;
+  width: 100%;
+}
+.Card1-subheading {
+  margin-top: 10px;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  color: #ffffff;
+  font-weight: bold;
+  width: 100%;
+}
+.Card1-location {
+  padding: 10px;
+  font-size: 12px;
+  font-weight: 500;
+  font-style: normal;
+  color: #ffffff;
+  width: 100%;
+}

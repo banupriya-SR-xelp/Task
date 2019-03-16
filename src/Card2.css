@@ -1,0 +1,35 @@
+.Card2-image {
+  image-rendering: pixelated;
+  width: 100%;
+  height: 200px;
+}
+.Card2 {
+  position: relative;
+  text-align: left;
+  margin-left: 0px;
+  color: #222;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.Card2-heading {
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 10px;
+  font-style: normal;
+  color: #222;
+  font-weight: bold;
+}
+.Card2-subheading {
+  margin-top: 20px;
+  font-weight: bold;
+  font-size: 16px;
+  font-weight: 500;
+  margin-left: 10px;
+  font-style: normal;
+  color: #222;
+}
+.Card2-link {
+  margin-top: 10px;
+  padding-bottom: 20px;
+  margin-left: 10px;
+}
